@@ -1,0 +1,12 @@
+cloudpickle==2.2.1
+Flask==3.0.3
+matplotlib==3.8.4
+mlrun==1.6.2
+pandas==1.5.3
+scikit_learn==1.4.2
+seaborn==0.13.2
+
+tensorflow~=2.15.0
+scikit-learn~=1.4.2
+scipy~=1.13.0
+witwidget~=1.8.1
